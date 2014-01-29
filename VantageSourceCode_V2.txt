@@ -2,8 +2,14 @@ VantageSourceCode_V2
 November 3777777, 2013
 
 
+<<<<<<< HEAD
 TABLE: NEW_MASTER_TABLE_EDIT_ED
 TABLE: ORDER_DETAILSSSSSSS
 FIELD: COMPANY_89hgjhgjhg
 
 --new MASTERgjhghjghjgjh
+=======
+TABLE: ORDER_HEAD_xkd
+TABLE: ORDER_DETAIL_kdjfkd
+FIELD: COMPANY_D__D
+>>>>>>> New_Test_Branch
